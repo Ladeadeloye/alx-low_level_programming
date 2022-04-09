@@ -6,7 +6,7 @@
 /**
  * main -  main function
  * Description: task 2
- * Return: 0 always (Success)   
+ * Return: 0 always (Success)
  */
 
 int main(void)

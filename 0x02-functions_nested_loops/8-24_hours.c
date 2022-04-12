@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * jack_bauer - Entry function 
+ * jack_bauer - Entry function
  * Return: Always 0.
  */
 void jack_bauer(void)
